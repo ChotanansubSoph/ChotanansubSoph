@@ -1,11 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=ChotanansubSoph&color=blue)
 # About Me 💡✨
 Hello there! I'm Chokun. 
-I'm currently studying ![img](https://img.shields.io/badge/B.Eng-Computer%20Engineering-orange) at [KMUTT](https://www.kmutt.ac.th/en/), Thailand.
+I'm currently studying [![img](https://img.shields.io/badge/B.Eng-Computer%20Engineering-orange)](https://cpe.kmutt.ac.th/en/index) at [KMUTT](https://www.kmutt.ac.th/en/), Thailand.
 
 \>> interested in the fields of Machine Learning, Data Analytics and Machine Learning.
 
 \>> currently learning about web technology and knowledge engineering (Ontology & knowledge graph) .
+
+---
 
 # Skills ⚙️
 
