@@ -1,4 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=ChotanansubSoph&color=blue)
+
+
+
+<img a="sussy" align="right" height="200" width="200" alt="Chot's avatar" 
+src="https://pnggrid.com/wp-content/uploads/2021/12/Orange-Among-us-PNG-Transparent.png"/>
+
 # About Me 💡✨
 Hello there! I'm Chokun. 
 I'm currently studying [![img](https://img.shields.io/badge/B.Eng.-Computer%20Engineering-orange)](https://cpe.kmutt.ac.th/en/index) at [KMUTT](https://www.kmutt.ac.th/en/), Thailand.
