@@ -4,7 +4,7 @@ I'm currently studying ![img](https://img.shields.io/badge/B.Eng-Computer%20Engi
 
 \>> interested in the fields of Machine Learning, Data Analytics and Machine Learning.
 
-\>> learning on web technology and knowledge engineering (Ontology & knowledge graph) .
+\>> presently learning about web technology and knowledge engineering (Ontology & knowledge graph) .
 
 # Skills ⚙️
 
