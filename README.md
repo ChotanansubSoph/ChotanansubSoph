@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ChotanansubSoph&color=blue)
 # About Me 💡✨
 Hello there! I'm Chokun. 
 I'm currently studying ![img](https://img.shields.io/badge/B.Eng-Computer%20Engineering-orange) at [KMUTT](https://www.kmutt.ac.th/en/), Thailand.
