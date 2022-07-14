@@ -1,4 +1,6 @@
-### Hi there 👋
+### About Me
+I'm studying B.Eng(Computer Engineering) at [KMUTT](https://www.kmutt.ac.th/en/), Thailand 
+
 
 <!--
 **ChotanansubSoph/ChotanansubSoph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
